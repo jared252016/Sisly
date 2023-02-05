@@ -6,7 +6,8 @@ modules/*
 !modules/base.py
 !modules/db.py
 !modules/example.py
-!pyaria2/*
+pyaria2/*
+!pyaria2/__init__.py
 *.old
 .env
 s-queue.py
