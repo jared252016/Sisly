@@ -1,0 +1,16 @@
+*.log
+*.pyc
+__pycache__
+__pycache__/**/*
+modules/*
+!modules/base.py
+!modules/db.py
+!modules/example.py
+*.old
+.env
+s-queue.py
+pyaria2/backup_init.py
+lists/*
+lists/
+sisly.py
+sbackup.py
