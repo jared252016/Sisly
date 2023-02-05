@@ -6,10 +6,10 @@ modules/*
 !modules/base.py
 !modules/db.py
 !modules/example.py
+!pyaria2/*
 *.old
 .env
 s-queue.py
-pyaria2/backup_init.py
 lists/*
 lists/
 sisly.py
